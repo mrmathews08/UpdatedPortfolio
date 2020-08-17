@@ -21,7 +21,9 @@ This homework assignment is my updated portfolio page. It has a brief descriptio
 
 ## Installation
 
-Open up the inde.html and everything runs smooth from there. 
+Open up the index.html and everything runs smooth from there. 
+
+https://mrmathews08.github.io/UpdatedPortfolio/
 
 
 ## Usage 
