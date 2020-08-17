@@ -9,7 +9,7 @@ This homework assignment is my updated portfolio page. It has a brief descriptio
 
 ## Table of Contents 
 
-<img width="1680" alt="Screen Shot 2020-08-16 at 10 32 17 PM" src="https://user-images.githubusercontent.com/65747246/90357478-5a75f580-e010-11ea-9349-80615aa529ba.png">
+<img width="1680" alt="Screen Shot 2020-08-16 at 10 39 55 PM" src="https://user-images.githubusercontent.com/65747246/90357803-6adaa000-e011-11ea-9fc5-17843dfe0f70.png">
 
 
 
