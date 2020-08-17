@@ -27,6 +27,7 @@ Open up the inde.html and everything runs smooth from there.
 ## Usage 
 
 Navigate to my webpage, the navbar floats from page to page so that you can see naviagate to any page at any time. 
+**  ON THE PORTFOLIO PAGE, CLICK AN IMAGE FOR THE DEPLOUYED APP AND CLICK THE TEXT FOR THE REPOSITORY
 
 
 ## Credits
